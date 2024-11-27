@@ -35,10 +35,10 @@ namespace Deltin.Deltinteger.Lobby
         public const string CooldownTime = "%1$s Cooldown Time";
         public const string RechargeRate = "%1$s Recharge Rate";
         public const string MaximumTime = "%1$s Maximum Time";
-        public const string UltimateAbility = "Ultimate Ability (%1$s)";
-        public const string UltimateGeneration = "Ultimate Generation (%1$s)";
-        public const string UltimateGenerationPassive = "Ultimate Generation - Passive (%1$s)";
-        public const string UltimateGenerationCombat = "Ultimate Generation - Combat (%1$s)";
+        public const string UltimateAbility = "Ultimate Ability %1$s";
+        public const string UltimateGeneration = "Ultimate Generation %1$s";
+        public const string UltimateGenerationPassive = "Ultimate Generation - Passive %1$s";
+        public const string UltimateGenerationCombat = "Ultimate Generation - Combat %1$s";
 
         public string AbilityName { get; }
         public AbilityNameType Type { get; }
