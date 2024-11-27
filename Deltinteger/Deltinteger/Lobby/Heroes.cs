@@ -99,10 +99,10 @@ namespace Deltin.Deltinteger.Lobby
             if (name != null)
             {
                 // Add the (name) suffix if 'name' is not null.
-                isEnabled += " (" + name + ")";
-                generation += " (" + name + ")";
-                passive += " (" + name + ")";
-                combat += " (" + name + ")";
+                isEnabled += " " + name;
+                generation += " " + name;
+                passive += " " + name;
+                combat += " " + name;
                 knockback = name + " " + knockback;
             }
 

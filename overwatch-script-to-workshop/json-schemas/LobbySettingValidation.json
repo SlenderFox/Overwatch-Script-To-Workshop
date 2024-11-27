@@ -1036,22 +1036,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Nano Boost)": {
+    "Ultimate Ability Nano Boost": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Nano Boost)": {
+    "Ultimate Generation Nano Boost": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Nano Boost)": {
+    "Ultimate Generation - Passive Nano Boost": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Nano Boost)": {
+    "Ultimate Generation - Combat Nano Boost": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1082,22 +1082,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (B.O.B.)": {
+    "Ultimate Ability B.O.B.": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (B.O.B.)": {
+    "Ultimate Generation B.O.B.": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (B.O.B.)": {
+    "Ultimate Generation - Passive B.O.B.": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (B.O.B.)": {
+    "Ultimate Generation - Combat B.O.B.": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1136,22 +1136,22 @@
       "minimum": 1.0,
       "maximum": 500.0
     },
-    "Ultimate Ability (Amplification Matrix)": {
+    "Ultimate Ability Amplification Matrix": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Amplification Matrix)": {
+    "Ultimate Generation Amplification Matrix": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Amplification Matrix)": {
+    "Ultimate Generation - Passive Amplification Matrix": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Amplification Matrix)": {
+    "Ultimate Generation - Combat Amplification Matrix": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1178,22 +1178,22 @@
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Ability (Configuration: Artillery)": {
+    "Ultimate Ability Configuration: Artillery": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Configuration: Artillery)": {
+    "Ultimate Generation Configuration: Artillery": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Configuration: Artillery)": {
+    "Ultimate Generation - Passive Configuration: Artillery": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Configuration: Artillery)": {
+    "Ultimate Generation - Combat Configuration: Artillery": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1221,22 +1221,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Rally)": {
+    "Ultimate Ability Rally": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Rally)": {
+    "Ultimate Generation Rally": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Rally)": {
+    "Ultimate Generation - Passive Rally": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Rally)": {
+    "Ultimate Generation - Combat Rally": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1298,22 +1298,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Deadeye)": {
+    "Ultimate Ability Deadeye": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Deadeye)": {
+    "Ultimate Generation Deadeye": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Deadeye)": {
+    "Ultimate Generation - Passive Deadeye": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Deadeye)": {
+    "Ultimate Generation - Combat Deadeye": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1336,22 +1336,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Self-Destruct)": {
+    "Ultimate Ability Self-Destruct": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Self-Destruct)": {
+    "Ultimate Generation Self-Destruct": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Self-Destruct)": {
+    "Ultimate Generation - Passive Self-Destruct": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Self-Destruct)": {
+    "Ultimate Generation - Combat Self-Destruct": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1408,22 +1408,22 @@
       "default": false,
       "type": "boolean"
     },
-    "Ultimate Ability (Meteor Strike)": {
+    "Ultimate Ability Meteor Strike": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Meteor Strike)": {
+    "Ultimate Generation Meteor Strike": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Meteor Strike)": {
+    "Ultimate Generation - Passive Meteor Strike": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Meteor Strike)": {
+    "Ultimate Generation - Combat Meteor Strike": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1477,22 +1477,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Duplicate)": {
+    "Ultimate Ability Duplicate": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Duplicate)": {
+    "Ultimate Generation Duplicate": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Duplicate)": {
+    "Ultimate Generation - Passive Duplicate": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Duplicate)": {
+    "Ultimate Generation - Combat Duplicate": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1528,22 +1528,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Dragonblade)": {
+    "Ultimate Ability Dragonblade": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Dragonblade)": {
+    "Ultimate Generation Dragonblade": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Dragonblade)": {
+    "Ultimate Generation - Passive Dragonblade": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Dragonblade)": {
+    "Ultimate Generation - Combat Dragonblade": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1566,22 +1566,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Dragonstrike)": {
+    "Ultimate Ability Dragonstrike": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Dragonstrike)": {
+    "Ultimate Generation Dragonstrike": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Dragonstrike)": {
+    "Ultimate Generation - Passive Dragonstrike": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Dragonstrike)": {
+    "Ultimate Generation - Combat Dragonstrike": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1625,22 +1625,22 @@
       "minimum": 3.0,
       "maximum": 12.0
     },
-    "Ultimate Ability (Captive Sun)": {
+    "Ultimate Ability Captive Sun": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Captive Sun)": {
+    "Ultimate Generation Captive Sun": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Captive Sun)": {
+    "Ultimate Generation - Passive Captive Sun": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Captive Sun)": {
+    "Ultimate Generation - Combat Captive Sun": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1673,22 +1673,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Orbital Ray)": {
+    "Ultimate Ability Orbital Ray": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Orbital Ray)": {
+    "Ultimate Generation Orbital Ray": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Orbital Ray)": {
+    "Ultimate Generation - Passive Orbital Ray": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Orbital Ray)": {
+    "Ultimate Generation - Combat Orbital Ray": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1730,22 +1730,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Rampage)": {
+    "Ultimate Ability Rampage": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Rampage)": {
+    "Ultimate Generation Rampage": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Rampage)": {
+    "Ultimate Generation - Passive Rampage": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Rampage)": {
+    "Ultimate Generation - Combat Rampage": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1788,22 +1788,22 @@
       "minimum": 40.0,
       "maximum": 400.0
     },
-    "Ultimate Ability (Rip-Tire)": {
+    "Ultimate Ability Rip-Tire": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Rip-Tire)": {
+    "Ultimate Generation Rip-Tire": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Rip-Tire)": {
+    "Ultimate Generation - Passive Rip-Tire": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Rip-Tire)": {
+    "Ultimate Generation - Combat Rip-Tire": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1836,22 +1836,22 @@
       "type": "number",
       "maximum": 400.0
     },
-    "Ultimate Ability (Kitsune Rush)": {
+    "Ultimate Ability Kitsune Rush": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Kitsune Rush)": {
+    "Ultimate Generation Kitsune Rush": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Kitsune Rush)": {
+    "Ultimate Generation - Passive Kitsune Rush": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Kitsune Rush)": {
+    "Ultimate Generation - Combat Kitsune Rush": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1885,22 +1885,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Tree of Life)": {
+    "Ultimate Ability Tree of Life": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Tree of Life)": {
+    "Ultimate Generation Tree of Life": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Tree of Life)": {
+    "Ultimate Generation - Passive Tree of Life": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Tree of Life)": {
+    "Ultimate Generation - Combat Tree of Life": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -1964,22 +1964,22 @@
         "Thorn Volley Only"
       ]
     },
-    "Ultimate Ability (Sound Barrier)": {
+    "Ultimate Ability Sound Barrier": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Sound Barrier)": {
+    "Ultimate Generation Sound Barrier": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Sound Barrier)": {
+    "Ultimate Generation - Passive Sound Barrier": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Sound Barrier)": {
+    "Ultimate Generation - Combat Sound Barrier": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2011,22 +2011,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Cage Fight)": {
+    "Ultimate Ability Cage Fight": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Cage Fight)": {
+    "Ultimate Generation Cage Fight": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Cage Fight)": {
+    "Ultimate Generation - Passive Cage Fight": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Cage Fight)": {
+    "Ultimate Generation - Combat Cage Fight": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2082,22 +2082,22 @@
       "type": "number",
       "maximum": 300.0
     },
-    "Ultimate Ability (Blizzard)": {
+    "Ultimate Ability Blizzard": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Blizzard)": {
+    "Ultimate Generation Blizzard": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Blizzard)": {
+    "Ultimate Generation - Passive Blizzard": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Blizzard)": {
+    "Ultimate Generation - Combat Blizzard": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2150,22 +2150,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Valkyrie)": {
+    "Ultimate Ability Valkyrie": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Valkyrie)": {
+    "Ultimate Generation Valkyrie": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Valkyrie)": {
+    "Ultimate Generation - Passive Valkyrie": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Valkyrie)": {
+    "Ultimate Generation - Combat Valkyrie": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2205,22 +2205,22 @@
         "Caduceus Blaster Only"
       ]
     },
-    "Ultimate Ability (Coalescence)": {
+    "Ultimate Ability Coalescence": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Coalescence)": {
+    "Ultimate Generation Coalescence": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Coalescence)": {
+    "Ultimate Generation - Passive Coalescence": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Coalescence)": {
+    "Ultimate Generation - Combat Coalescence": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2266,22 +2266,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Terra Surge)": {
+    "Ultimate Ability Terra Surge": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Terra Surge)": {
+    "Ultimate Generation Terra Surge": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Terra Surge)": {
+    "Ultimate Generation - Passive Terra Surge": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Terra Surge)": {
+    "Ultimate Generation - Combat Terra Surge": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2313,22 +2313,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Barrage)": {
+    "Ultimate Ability Barrage": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Barrage)": {
+    "Ultimate Generation Barrage": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Barrage)": {
+    "Ultimate Generation - Passive Barrage": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Barrage)": {
+    "Ultimate Generation - Combat Barrage": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2411,22 +2411,22 @@
       "type": "number",
       "maximum": 400.0
     },
-    "Ultimate Ability (Annihilation)": {
+    "Ultimate Ability Annihilation": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Annihilation)": {
+    "Ultimate Generation Annihilation": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Annihilation)": {
+    "Ultimate Generation - Passive Annihilation": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Annihilation)": {
+    "Ultimate Generation - Combat Annihilation": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2462,22 +2462,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Death Blossom)": {
+    "Ultimate Ability Death Blossom": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Death Blossom)": {
+    "Ultimate Generation Death Blossom": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Death Blossom)": {
+    "Ultimate Generation - Passive Death Blossom": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Death Blossom)": {
+    "Ultimate Generation - Combat Death Blossom": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2500,22 +2500,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Earthshatter)": {
+    "Ultimate Ability Earthshatter": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Earthshatter)": {
+    "Ultimate Generation Earthshatter": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Earthshatter)": {
+    "Ultimate Generation - Passive Earthshatter": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Earthshatter)": {
+    "Ultimate Generation - Combat Earthshatter": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2562,22 +2562,22 @@
       "type": "number",
       "maximum": 400.0
     },
-    "Ultimate Ability (Whole Hog)": {
+    "Ultimate Ability Whole Hog": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Whole Hog)": {
+    "Ultimate Generation Whole Hog": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Whole Hog)": {
+    "Ultimate Generation - Passive Whole Hog": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Whole Hog)": {
+    "Ultimate Generation - Combat Whole Hog": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2625,22 +2625,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Gravitic Flux)": {
+    "Ultimate Ability Gravitic Flux": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Gravitic Flux)": {
+    "Ultimate Generation Gravitic Flux": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Gravitic Flux)": {
+    "Ultimate Generation - Passive Gravitic Flux": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Gravitic Flux)": {
+    "Ultimate Generation - Combat Gravitic Flux": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2688,22 +2688,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Tactical Visor)": {
+    "Ultimate Ability Tactical Visor": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Tactical Visor)": {
+    "Ultimate Generation Tactical Visor": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Tactical Visor)": {
+    "Ultimate Generation - Passive Tactical Visor": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Tactical Visor)": {
+    "Ultimate Generation - Combat Tactical Visor": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2735,22 +2735,22 @@
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Ability (Overclock)": {
+    "Ultimate Ability Overclock": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Overclock)": {
+    "Ultimate Generation Overclock": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Overclock)": {
+    "Ultimate Generation - Passive Overclock": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Overclock)": {
+    "Ultimate Generation - Combat Overclock": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2778,22 +2778,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (EMP)": {
+    "Ultimate Ability EMP": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (EMP)": {
+    "Ultimate Generation EMP": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (EMP)": {
+    "Ultimate Generation - Passive EMP": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (EMP)": {
+    "Ultimate Generation - Combat EMP": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2825,22 +2825,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Photon Barrier)": {
+    "Ultimate Ability Photon Barrier": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Photon Barrier)": {
+    "Ultimate Generation Photon Barrier": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Photon Barrier)": {
+    "Ultimate Generation - Passive Photon Barrier": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Photon Barrier)": {
+    "Ultimate Generation - Combat Photon Barrier": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2863,22 +2863,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Molten Core)": {
+    "Ultimate Ability Molten Core": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Molten Core)": {
+    "Ultimate Generation Molten Core": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Molten Core)": {
+    "Ultimate Generation - Passive Molten Core": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Molten Core)": {
+    "Ultimate Generation - Combat Molten Core": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2915,22 +2915,22 @@
         "Forge Hammer Only"
       ]
     },
-    "Ultimate Ability (Pulse Bomb)": {
+    "Ultimate Ability Pulse Bomb": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Pulse Bomb)": {
+    "Ultimate Generation Pulse Bomb": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Pulse Bomb)": {
+    "Ultimate Generation - Passive Pulse Bomb": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Pulse Bomb)": {
+    "Ultimate Generation - Combat Pulse Bomb": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2953,22 +2953,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Tectonic Shock)": {
+    "Ultimate Ability Tectonic Shock": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Tectonic Shock)": {
+    "Ultimate Generation Tectonic Shock": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Tectonic Shock)": {
+    "Ultimate Generation - Passive Tectonic Shock": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Tectonic Shock)": {
+    "Ultimate Generation - Combat Tectonic Shock": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -2997,22 +2997,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Infra-sight)": {
+    "Ultimate Ability Infra-sight": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Infra-sight)": {
+    "Ultimate Generation Infra-sight": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Infra-sight)": {
+    "Ultimate Generation - Passive Infra-sight": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Infra-sight)": {
+    "Ultimate Generation - Combat Infra-sight": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -3035,22 +3035,22 @@
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Ability (Primal Rage)": {
+    "Ultimate Ability Primal Rage": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Primal Rage)": {
+    "Ultimate Generation Primal Rage": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Primal Rage)": {
+    "Ultimate Generation - Passive Primal Rage": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Primal Rage)": {
+    "Ultimate Generation - Combat Primal Rage": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -3090,22 +3090,22 @@
       "minimum": 25.0,
       "maximum": 300.0
     },
-    "Ultimate Ability (Minefield)": {
+    "Ultimate Ability Minefield": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Minefield)": {
+    "Ultimate Generation Minefield": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Minefield)": {
+    "Ultimate Generation - Passive Minefield": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Minefield)": {
+    "Ultimate Generation - Combat Minefield": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -3155,22 +3155,22 @@
       "default": false,
       "type": "boolean"
     },
-    "Ultimate Ability (Graviton Surge)": {
+    "Ultimate Ability Graviton Surge": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Graviton Surge)": {
+    "Ultimate Generation Graviton Surge": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Graviton Surge)": {
+    "Ultimate Generation - Passive Graviton Surge": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Graviton Surge)": {
+    "Ultimate Generation - Combat Graviton Surge": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -3198,22 +3198,22 @@
       "type": "number",
       "maximum": 400.0
     },
-    "Ultimate Ability (Transcendence)": {
+    "Ultimate Ability Transcendence": {
       "default": true,
       "type": "boolean"
     },
-    "Ultimate Generation (Transcendence)": {
+    "Ultimate Generation Transcendence": {
       "default": 100.0,
       "type": "number",
       "minimum": 10.0,
       "maximum": 500.0
     },
-    "Ultimate Generation - Passive (Transcendence)": {
+    "Ultimate Generation - Passive Transcendence": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
     },
-    "Ultimate Generation - Combat (Transcendence)": {
+    "Ultimate Generation - Combat Transcendence": {
       "default": 100.0,
       "type": "number",
       "maximum": 500.0
@@ -3396,17 +3396,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Nano Boost)": {
-              "$ref": "#/definitions/Ultimate Ability (Nano Boost)"
+            "Ultimate Ability Nano Boost": {
+              "$ref": "#/definitions/Ultimate Ability Nano Boost"
             },
-            "Ultimate Generation (Nano Boost)": {
-              "$ref": "#/definitions/Ultimate Generation (Nano Boost)"
+            "Ultimate Generation Nano Boost": {
+              "$ref": "#/definitions/Ultimate Generation Nano Boost"
             },
-            "Ultimate Generation - Passive (Nano Boost)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Nano Boost)"
+            "Ultimate Generation - Passive Nano Boost": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Nano Boost"
             },
-            "Ultimate Generation - Combat (Nano Boost)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Nano Boost)"
+            "Ultimate Generation - Combat Nano Boost": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Nano Boost"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -3477,17 +3477,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (B.O.B.)": {
-              "$ref": "#/definitions/Ultimate Ability (B.O.B.)"
+            "Ultimate Ability B.O.B.": {
+              "$ref": "#/definitions/Ultimate Ability B.O.B."
             },
-            "Ultimate Generation (B.O.B.)": {
-              "$ref": "#/definitions/Ultimate Generation (B.O.B.)"
+            "Ultimate Generation B.O.B.": {
+              "$ref": "#/definitions/Ultimate Generation B.O.B."
             },
-            "Ultimate Generation - Passive (B.O.B.)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (B.O.B.)"
+            "Ultimate Generation - Passive B.O.B.": {
+              "$ref": "#/definitions/Ultimate Generation - Passive B.O.B."
             },
-            "Ultimate Generation - Combat (B.O.B.)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (B.O.B.)"
+            "Ultimate Generation - Combat B.O.B.": {
+              "$ref": "#/definitions/Ultimate Generation - Combat B.O.B."
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -3573,17 +3573,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Amplification Matrix)": {
-              "$ref": "#/definitions/Ultimate Ability (Amplification Matrix)"
+            "Ultimate Ability Amplification Matrix": {
+              "$ref": "#/definitions/Ultimate Ability Amplification Matrix"
             },
-            "Ultimate Generation (Amplification Matrix)": {
-              "$ref": "#/definitions/Ultimate Generation (Amplification Matrix)"
+            "Ultimate Generation Amplification Matrix": {
+              "$ref": "#/definitions/Ultimate Generation Amplification Matrix"
             },
-            "Ultimate Generation - Passive (Amplification Matrix)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Amplification Matrix)"
+            "Ultimate Generation - Passive Amplification Matrix": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Amplification Matrix"
             },
-            "Ultimate Generation - Combat (Amplification Matrix)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Amplification Matrix)"
+            "Ultimate Generation - Combat Amplification Matrix": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Amplification Matrix"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -3660,17 +3660,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Configuration: Artillery)": {
-              "$ref": "#/definitions/Ultimate Ability (Configuration: Artillery)"
+            "Ultimate Ability Configuration: Artillery": {
+              "$ref": "#/definitions/Ultimate Ability Configuration: Artillery"
             },
-            "Ultimate Generation (Configuration: Artillery)": {
-              "$ref": "#/definitions/Ultimate Generation (Configuration: Artillery)"
+            "Ultimate Generation Configuration: Artillery": {
+              "$ref": "#/definitions/Ultimate Generation Configuration: Artillery"
             },
-            "Ultimate Generation - Passive (Configuration: Artillery)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Configuration: Artillery)"
+            "Ultimate Generation - Passive Configuration: Artillery": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Configuration: Artillery"
             },
-            "Ultimate Generation - Combat (Configuration: Artillery)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Configuration: Artillery)"
+            "Ultimate Generation - Combat Configuration: Artillery": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Configuration: Artillery"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -3738,17 +3738,17 @@
             "Primary Fire": {
               "$ref": "#/definitions/Primary Fire"
             },
-            "Ultimate Ability (Rally)": {
-              "$ref": "#/definitions/Ultimate Ability (Rally)"
+            "Ultimate Ability Rally": {
+              "$ref": "#/definitions/Ultimate Ability Rally"
             },
-            "Ultimate Generation (Rally)": {
-              "$ref": "#/definitions/Ultimate Generation (Rally)"
+            "Ultimate Generation Rally": {
+              "$ref": "#/definitions/Ultimate Generation Rally"
             },
-            "Ultimate Generation - Passive (Rally)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Rally)"
+            "Ultimate Generation - Passive Rally": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Rally"
             },
-            "Ultimate Generation - Combat (Rally)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Rally)"
+            "Ultimate Generation - Combat Rally": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Rally"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -3840,17 +3840,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Deadeye)": {
-              "$ref": "#/definitions/Ultimate Ability (Deadeye)"
+            "Ultimate Ability Deadeye": {
+              "$ref": "#/definitions/Ultimate Ability Deadeye"
             },
-            "Ultimate Generation (Deadeye)": {
-              "$ref": "#/definitions/Ultimate Generation (Deadeye)"
+            "Ultimate Generation Deadeye": {
+              "$ref": "#/definitions/Ultimate Generation Deadeye"
             },
-            "Ultimate Generation - Passive (Deadeye)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Deadeye)"
+            "Ultimate Generation - Passive Deadeye": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Deadeye"
             },
-            "Ultimate Generation - Combat (Deadeye)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Deadeye)"
+            "Ultimate Generation - Combat Deadeye": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Deadeye"
             },
             "Secondary Fire": {
               "$ref": "#/definitions/Secondary Fire"
@@ -3912,17 +3912,17 @@
             "Primary Fire": {
               "$ref": "#/definitions/Primary Fire"
             },
-            "Ultimate Ability (Self-Destruct)": {
-              "$ref": "#/definitions/Ultimate Ability (Self-Destruct)"
+            "Ultimate Ability Self-Destruct": {
+              "$ref": "#/definitions/Ultimate Ability Self-Destruct"
             },
-            "Ultimate Generation (Self-Destruct)": {
-              "$ref": "#/definitions/Ultimate Generation (Self-Destruct)"
+            "Ultimate Generation Self-Destruct": {
+              "$ref": "#/definitions/Ultimate Generation Self-Destruct"
             },
-            "Ultimate Generation - Passive (Self-Destruct)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Self-Destruct)"
+            "Ultimate Generation - Passive Self-Destruct": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Self-Destruct"
             },
-            "Ultimate Generation - Combat (Self-Destruct)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Self-Destruct)"
+            "Ultimate Generation - Combat Self-Destruct": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Self-Destruct"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -4008,17 +4008,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Meteor Strike)": {
-              "$ref": "#/definitions/Ultimate Ability (Meteor Strike)"
+            "Ultimate Ability Meteor Strike": {
+              "$ref": "#/definitions/Ultimate Ability Meteor Strike"
             },
-            "Ultimate Generation (Meteor Strike)": {
-              "$ref": "#/definitions/Ultimate Generation (Meteor Strike)"
+            "Ultimate Generation Meteor Strike": {
+              "$ref": "#/definitions/Ultimate Generation Meteor Strike"
             },
-            "Ultimate Generation - Passive (Meteor Strike)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Meteor Strike)"
+            "Ultimate Generation - Passive Meteor Strike": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Meteor Strike"
             },
-            "Ultimate Generation - Combat (Meteor Strike)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Meteor Strike)"
+            "Ultimate Generation - Combat Meteor Strike": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Meteor Strike"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -4104,17 +4104,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Duplicate)": {
-              "$ref": "#/definitions/Ultimate Ability (Duplicate)"
+            "Ultimate Ability Duplicate": {
+              "$ref": "#/definitions/Ultimate Ability Duplicate"
             },
-            "Ultimate Generation (Duplicate)": {
-              "$ref": "#/definitions/Ultimate Generation (Duplicate)"
+            "Ultimate Generation Duplicate": {
+              "$ref": "#/definitions/Ultimate Generation Duplicate"
             },
-            "Ultimate Generation - Passive (Duplicate)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Duplicate)"
+            "Ultimate Generation - Passive Duplicate": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Duplicate"
             },
-            "Ultimate Generation - Combat (Duplicate)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Duplicate)"
+            "Ultimate Generation - Combat Duplicate": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Duplicate"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -4185,17 +4185,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Dragonblade)": {
-              "$ref": "#/definitions/Ultimate Ability (Dragonblade)"
+            "Ultimate Ability Dragonblade": {
+              "$ref": "#/definitions/Ultimate Ability Dragonblade"
             },
-            "Ultimate Generation (Dragonblade)": {
-              "$ref": "#/definitions/Ultimate Generation (Dragonblade)"
+            "Ultimate Generation Dragonblade": {
+              "$ref": "#/definitions/Ultimate Generation Dragonblade"
             },
-            "Ultimate Generation - Passive (Dragonblade)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Dragonblade)"
+            "Ultimate Generation - Passive Dragonblade": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Dragonblade"
             },
-            "Ultimate Generation - Combat (Dragonblade)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Dragonblade)"
+            "Ultimate Generation - Combat Dragonblade": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Dragonblade"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -4260,17 +4260,17 @@
             "Primary Fire": {
               "$ref": "#/definitions/Primary Fire"
             },
-            "Ultimate Ability (Dragonstrike)": {
-              "$ref": "#/definitions/Ultimate Ability (Dragonstrike)"
+            "Ultimate Ability Dragonstrike": {
+              "$ref": "#/definitions/Ultimate Ability Dragonstrike"
             },
-            "Ultimate Generation (Dragonstrike)": {
-              "$ref": "#/definitions/Ultimate Generation (Dragonstrike)"
+            "Ultimate Generation Dragonstrike": {
+              "$ref": "#/definitions/Ultimate Generation Dragonstrike"
             },
-            "Ultimate Generation - Passive (Dragonstrike)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Dragonstrike)"
+            "Ultimate Generation - Passive Dragonstrike": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Dragonstrike"
             },
-            "Ultimate Generation - Combat (Dragonstrike)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Dragonstrike)"
+            "Ultimate Generation - Combat Dragonstrike": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Dragonstrike"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -4356,17 +4356,17 @@
             "Projectile Gravity": {
               "$ref": "#/definitions/Projectile Gravity"
             },
-            "Ultimate Ability (Captive Sun)": {
-              "$ref": "#/definitions/Ultimate Ability (Captive Sun)"
+            "Ultimate Ability Captive Sun": {
+              "$ref": "#/definitions/Ultimate Ability Captive Sun"
             },
-            "Ultimate Generation (Captive Sun)": {
-              "$ref": "#/definitions/Ultimate Generation (Captive Sun)"
+            "Ultimate Generation Captive Sun": {
+              "$ref": "#/definitions/Ultimate Generation Captive Sun"
             },
-            "Ultimate Generation - Passive (Captive Sun)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Captive Sun)"
+            "Ultimate Generation - Passive Captive Sun": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Captive Sun"
             },
-            "Ultimate Generation - Combat (Captive Sun)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Captive Sun)"
+            "Ultimate Generation - Combat Captive Sun": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Captive Sun"
             },
             "Secondary Fire": {
               "$ref": "#/definitions/Secondary Fire"
@@ -4440,17 +4440,17 @@
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
             },
-            "Ultimate Ability (Orbital Ray)": {
-              "$ref": "#/definitions/Ultimate Ability (Orbital Ray)"
+            "Ultimate Ability Orbital Ray": {
+              "$ref": "#/definitions/Ultimate Ability Orbital Ray"
             },
-            "Ultimate Generation (Orbital Ray)": {
-              "$ref": "#/definitions/Ultimate Generation (Orbital Ray)"
+            "Ultimate Generation Orbital Ray": {
+              "$ref": "#/definitions/Ultimate Generation Orbital Ray"
             },
-            "Ultimate Generation - Passive (Orbital Ray)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Orbital Ray)"
+            "Ultimate Generation - Passive Orbital Ray": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Orbital Ray"
             },
-            "Ultimate Generation - Combat (Orbital Ray)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Orbital Ray)"
+            "Ultimate Generation - Combat Orbital Ray": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Orbital Ray"
             },
             "Glide Boost": {
               "$ref": "#/definitions/Glide Boost"
@@ -4521,17 +4521,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Rampage)": {
-              "$ref": "#/definitions/Ultimate Ability (Rampage)"
+            "Ultimate Ability Rampage": {
+              "$ref": "#/definitions/Ultimate Ability Rampage"
             },
-            "Ultimate Generation (Rampage)": {
-              "$ref": "#/definitions/Ultimate Generation (Rampage)"
+            "Ultimate Generation Rampage": {
+              "$ref": "#/definitions/Ultimate Generation Rampage"
             },
-            "Ultimate Generation - Passive (Rampage)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Rampage)"
+            "Ultimate Generation - Passive Rampage": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Rampage"
             },
-            "Ultimate Generation - Combat (Rampage)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Rampage)"
+            "Ultimate Generation - Combat Rampage": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Rampage"
             },
             "Commanding Shout": {
               "$ref": "#/definitions/Commanding Shout"
@@ -4608,17 +4608,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Rip-Tire)": {
-              "$ref": "#/definitions/Ultimate Ability (Rip-Tire)"
+            "Ultimate Ability Rip-Tire": {
+              "$ref": "#/definitions/Ultimate Ability Rip-Tire"
             },
-            "Ultimate Generation (Rip-Tire)": {
-              "$ref": "#/definitions/Ultimate Generation (Rip-Tire)"
+            "Ultimate Generation Rip-Tire": {
+              "$ref": "#/definitions/Ultimate Generation Rip-Tire"
             },
-            "Ultimate Generation - Passive (Rip-Tire)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Rip-Tire)"
+            "Ultimate Generation - Passive Rip-Tire": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Rip-Tire"
             },
-            "Ultimate Generation - Combat (Rip-Tire)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Rip-Tire)"
+            "Ultimate Generation - Combat Rip-Tire": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Rip-Tire"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -4695,17 +4695,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Kitsune Rush)": {
-              "$ref": "#/definitions/Ultimate Ability (Kitsune Rush)"
+            "Ultimate Ability Kitsune Rush": {
+              "$ref": "#/definitions/Ultimate Ability Kitsune Rush"
             },
-            "Ultimate Generation (Kitsune Rush)": {
-              "$ref": "#/definitions/Ultimate Generation (Kitsune Rush)"
+            "Ultimate Generation Kitsune Rush": {
+              "$ref": "#/definitions/Ultimate Generation Kitsune Rush"
             },
-            "Ultimate Generation - Passive (Kitsune Rush)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Kitsune Rush)"
+            "Ultimate Generation - Passive Kitsune Rush": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Kitsune Rush"
             },
-            "Ultimate Generation - Combat (Kitsune Rush)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Kitsune Rush)"
+            "Ultimate Generation - Combat Kitsune Rush": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Kitsune Rush"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -4785,17 +4785,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Tree of Life)": {
-              "$ref": "#/definitions/Ultimate Ability (Tree of Life)"
+            "Ultimate Ability Tree of Life": {
+              "$ref": "#/definitions/Ultimate Ability Tree of Life"
             },
-            "Ultimate Generation (Tree of Life)": {
-              "$ref": "#/definitions/Ultimate Generation (Tree of Life)"
+            "Ultimate Generation Tree of Life": {
+              "$ref": "#/definitions/Ultimate Generation Tree of Life"
             },
-            "Ultimate Generation - Passive (Tree of Life)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Tree of Life)"
+            "Ultimate Generation - Passive Tree of Life": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Tree of Life"
             },
-            "Ultimate Generation - Combat (Tree of Life)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Tree of Life)"
+            "Ultimate Generation - Combat Tree of Life": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Tree of Life"
             },
             "Tree of Life Health": {
               "$ref": "#/definitions/Tree of Life Health"
@@ -4884,17 +4884,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Sound Barrier)": {
-              "$ref": "#/definitions/Ultimate Ability (Sound Barrier)"
+            "Ultimate Ability Sound Barrier": {
+              "$ref": "#/definitions/Ultimate Ability Sound Barrier"
             },
-            "Ultimate Generation (Sound Barrier)": {
-              "$ref": "#/definitions/Ultimate Generation (Sound Barrier)"
+            "Ultimate Generation Sound Barrier": {
+              "$ref": "#/definitions/Ultimate Generation Sound Barrier"
             },
-            "Ultimate Generation - Passive (Sound Barrier)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Sound Barrier)"
+            "Ultimate Generation - Passive Sound Barrier": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Sound Barrier"
             },
-            "Ultimate Generation - Combat (Sound Barrier)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Sound Barrier)"
+            "Ultimate Generation - Combat Sound Barrier": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Sound Barrier"
             },
             "Healing Dealt": {
               "$ref": "#/definitions/Healing Dealt"
@@ -4968,17 +4968,17 @@
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
             },
-            "Ultimate Ability (Cage Fight)": {
-              "$ref": "#/definitions/Ultimate Ability (Cage Fight)"
+            "Ultimate Ability Cage Fight": {
+              "$ref": "#/definitions/Ultimate Ability Cage Fight"
             },
-            "Ultimate Generation (Cage Fight)": {
-              "$ref": "#/definitions/Ultimate Generation (Cage Fight)"
+            "Ultimate Generation Cage Fight": {
+              "$ref": "#/definitions/Ultimate Generation Cage Fight"
             },
-            "Ultimate Generation - Passive (Cage Fight)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Cage Fight)"
+            "Ultimate Generation - Passive Cage Fight": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Cage Fight"
             },
-            "Ultimate Generation - Combat (Cage Fight)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Cage Fight)"
+            "Ultimate Generation - Combat Cage Fight": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Cage Fight"
             },
             "Incendiary Chaingun": {
               "$ref": "#/definitions/Incendiary Chaingun"
@@ -5058,17 +5058,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Blizzard)": {
-              "$ref": "#/definitions/Ultimate Ability (Blizzard)"
+            "Ultimate Ability Blizzard": {
+              "$ref": "#/definitions/Ultimate Ability Blizzard"
             },
-            "Ultimate Generation (Blizzard)": {
-              "$ref": "#/definitions/Ultimate Generation (Blizzard)"
+            "Ultimate Generation Blizzard": {
+              "$ref": "#/definitions/Ultimate Generation Blizzard"
             },
-            "Ultimate Generation - Passive (Blizzard)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Blizzard)"
+            "Ultimate Generation - Passive Blizzard": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Blizzard"
             },
-            "Ultimate Generation - Combat (Blizzard)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Blizzard)"
+            "Ultimate Generation - Combat Blizzard": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Blizzard"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -5157,17 +5157,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Valkyrie)": {
-              "$ref": "#/definitions/Ultimate Ability (Valkyrie)"
+            "Ultimate Ability Valkyrie": {
+              "$ref": "#/definitions/Ultimate Ability Valkyrie"
             },
-            "Ultimate Generation (Valkyrie)": {
-              "$ref": "#/definitions/Ultimate Generation (Valkyrie)"
+            "Ultimate Generation Valkyrie": {
+              "$ref": "#/definitions/Ultimate Generation Valkyrie"
             },
-            "Ultimate Generation - Passive (Valkyrie)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Valkyrie)"
+            "Ultimate Generation - Passive Valkyrie": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Valkyrie"
             },
-            "Ultimate Generation - Combat (Valkyrie)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Valkyrie)"
+            "Ultimate Generation - Combat Valkyrie": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Valkyrie"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -5238,17 +5238,17 @@
             "Primary Fire": {
               "$ref": "#/definitions/Primary Fire"
             },
-            "Ultimate Ability (Coalescence)": {
-              "$ref": "#/definitions/Ultimate Ability (Coalescence)"
+            "Ultimate Ability Coalescence": {
+              "$ref": "#/definitions/Ultimate Ability Coalescence"
             },
-            "Ultimate Generation (Coalescence)": {
-              "$ref": "#/definitions/Ultimate Generation (Coalescence)"
+            "Ultimate Generation Coalescence": {
+              "$ref": "#/definitions/Ultimate Generation Coalescence"
             },
-            "Ultimate Generation - Passive (Coalescence)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Coalescence)"
+            "Ultimate Generation - Passive Coalescence": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Coalescence"
             },
-            "Ultimate Generation - Combat (Coalescence)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Coalescence)"
+            "Ultimate Generation - Combat Coalescence": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Coalescence"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -5334,17 +5334,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Terra Surge)": {
-              "$ref": "#/definitions/Ultimate Ability (Terra Surge)"
+            "Ultimate Ability Terra Surge": {
+              "$ref": "#/definitions/Ultimate Ability Terra Surge"
             },
-            "Ultimate Generation (Terra Surge)": {
-              "$ref": "#/definitions/Ultimate Generation (Terra Surge)"
+            "Ultimate Generation Terra Surge": {
+              "$ref": "#/definitions/Ultimate Generation Terra Surge"
             },
-            "Ultimate Generation - Passive (Terra Surge)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Terra Surge)"
+            "Ultimate Generation - Passive Terra Surge": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Terra Surge"
             },
-            "Ultimate Generation - Combat (Terra Surge)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Terra Surge)"
+            "Ultimate Generation - Combat Terra Surge": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Terra Surge"
             },
             "Fortify": {
               "$ref": "#/definitions/Fortify"
@@ -5415,17 +5415,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Barrage)": {
-              "$ref": "#/definitions/Ultimate Ability (Barrage)"
+            "Ultimate Ability Barrage": {
+              "$ref": "#/definitions/Ultimate Ability Barrage"
             },
-            "Ultimate Generation (Barrage)": {
-              "$ref": "#/definitions/Ultimate Generation (Barrage)"
+            "Ultimate Generation Barrage": {
+              "$ref": "#/definitions/Ultimate Generation Barrage"
             },
-            "Ultimate Generation - Passive (Barrage)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Barrage)"
+            "Ultimate Generation - Passive Barrage": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Barrage"
             },
-            "Ultimate Generation - Combat (Barrage)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Barrage)"
+            "Ultimate Generation - Combat Barrage": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Barrage"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -5523,17 +5523,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Annihilation)": {
-              "$ref": "#/definitions/Ultimate Ability (Annihilation)"
+            "Ultimate Ability Annihilation": {
+              "$ref": "#/definitions/Ultimate Ability Annihilation"
             },
-            "Ultimate Generation (Annihilation)": {
-              "$ref": "#/definitions/Ultimate Generation (Annihilation)"
+            "Ultimate Generation Annihilation": {
+              "$ref": "#/definitions/Ultimate Generation Annihilation"
             },
-            "Ultimate Generation - Passive (Annihilation)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Annihilation)"
+            "Ultimate Generation - Passive Annihilation": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Annihilation"
             },
-            "Ultimate Generation - Combat (Annihilation)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Annihilation)"
+            "Ultimate Generation - Combat Annihilation": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Annihilation"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -5604,17 +5604,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Death Blossom)": {
-              "$ref": "#/definitions/Ultimate Ability (Death Blossom)"
+            "Ultimate Ability Death Blossom": {
+              "$ref": "#/definitions/Ultimate Ability Death Blossom"
             },
-            "Ultimate Generation (Death Blossom)": {
-              "$ref": "#/definitions/Ultimate Generation (Death Blossom)"
+            "Ultimate Generation Death Blossom": {
+              "$ref": "#/definitions/Ultimate Generation Death Blossom"
             },
-            "Ultimate Generation - Passive (Death Blossom)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Death Blossom)"
+            "Ultimate Generation - Passive Death Blossom": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Death Blossom"
             },
-            "Ultimate Generation - Combat (Death Blossom)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Death Blossom)"
+            "Ultimate Generation - Combat Death Blossom": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Death Blossom"
             },
             "Healing Dealt": {
               "$ref": "#/definitions/Healing Dealt"
@@ -5670,17 +5670,17 @@
             "Primary Fire": {
               "$ref": "#/definitions/Primary Fire"
             },
-            "Ultimate Ability (Earthshatter)": {
-              "$ref": "#/definitions/Ultimate Ability (Earthshatter)"
+            "Ultimate Ability Earthshatter": {
+              "$ref": "#/definitions/Ultimate Ability Earthshatter"
             },
-            "Ultimate Generation (Earthshatter)": {
-              "$ref": "#/definitions/Ultimate Generation (Earthshatter)"
+            "Ultimate Generation Earthshatter": {
+              "$ref": "#/definitions/Ultimate Generation Earthshatter"
             },
-            "Ultimate Generation - Passive (Earthshatter)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Earthshatter)"
+            "Ultimate Generation - Passive Earthshatter": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Earthshatter"
             },
-            "Ultimate Generation - Combat (Earthshatter)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Earthshatter)"
+            "Ultimate Generation - Combat Earthshatter": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Earthshatter"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -5757,17 +5757,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Whole Hog)": {
-              "$ref": "#/definitions/Ultimate Ability (Whole Hog)"
+            "Ultimate Ability Whole Hog": {
+              "$ref": "#/definitions/Ultimate Ability Whole Hog"
             },
-            "Ultimate Generation (Whole Hog)": {
-              "$ref": "#/definitions/Ultimate Generation (Whole Hog)"
+            "Ultimate Generation Whole Hog": {
+              "$ref": "#/definitions/Ultimate Generation Whole Hog"
             },
-            "Ultimate Generation - Passive (Whole Hog)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Whole Hog)"
+            "Ultimate Generation - Passive Whole Hog": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Whole Hog"
             },
-            "Ultimate Generation - Combat (Whole Hog)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Whole Hog)"
+            "Ultimate Generation - Combat Whole Hog": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Whole Hog"
             },
             "Whole Hog Knockback Scalar": {
               "$ref": "#/definitions/Whole Hog Knockback Scalar"
@@ -5844,17 +5844,17 @@
             "Primary Fire": {
               "$ref": "#/definitions/Primary Fire"
             },
-            "Ultimate Ability (Gravitic Flux)": {
-              "$ref": "#/definitions/Ultimate Ability (Gravitic Flux)"
+            "Ultimate Ability Gravitic Flux": {
+              "$ref": "#/definitions/Ultimate Ability Gravitic Flux"
             },
-            "Ultimate Generation (Gravitic Flux)": {
-              "$ref": "#/definitions/Ultimate Generation (Gravitic Flux)"
+            "Ultimate Generation Gravitic Flux": {
+              "$ref": "#/definitions/Ultimate Generation Gravitic Flux"
             },
-            "Ultimate Generation - Passive (Gravitic Flux)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Gravitic Flux)"
+            "Ultimate Generation - Passive Gravitic Flux": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Gravitic Flux"
             },
-            "Ultimate Generation - Combat (Gravitic Flux)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Gravitic Flux)"
+            "Ultimate Generation - Combat Gravitic Flux": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Gravitic Flux"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -5934,17 +5934,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Tactical Visor)": {
-              "$ref": "#/definitions/Ultimate Ability (Tactical Visor)"
+            "Ultimate Ability Tactical Visor": {
+              "$ref": "#/definitions/Ultimate Ability Tactical Visor"
             },
-            "Ultimate Generation (Tactical Visor)": {
-              "$ref": "#/definitions/Ultimate Generation (Tactical Visor)"
+            "Ultimate Generation Tactical Visor": {
+              "$ref": "#/definitions/Ultimate Generation Tactical Visor"
             },
-            "Ultimate Generation - Passive (Tactical Visor)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Tactical Visor)"
+            "Ultimate Generation - Passive Tactical Visor": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Tactical Visor"
             },
-            "Ultimate Generation - Combat (Tactical Visor)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Tactical Visor)"
+            "Ultimate Generation - Combat Tactical Visor": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Tactical Visor"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6021,17 +6021,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Overclock)": {
-              "$ref": "#/definitions/Ultimate Ability (Overclock)"
+            "Ultimate Ability Overclock": {
+              "$ref": "#/definitions/Ultimate Ability Overclock"
             },
-            "Ultimate Generation (Overclock)": {
-              "$ref": "#/definitions/Ultimate Generation (Overclock)"
+            "Ultimate Generation Overclock": {
+              "$ref": "#/definitions/Ultimate Generation Overclock"
             },
-            "Ultimate Generation - Passive (Overclock)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Overclock)"
+            "Ultimate Generation - Passive Overclock": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Overclock"
             },
-            "Ultimate Generation - Combat (Overclock)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Overclock)"
+            "Ultimate Generation - Combat Overclock": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Overclock"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6105,17 +6105,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (EMP)": {
-              "$ref": "#/definitions/Ultimate Ability (EMP)"
+            "Ultimate Ability EMP": {
+              "$ref": "#/definitions/Ultimate Ability EMP"
             },
-            "Ultimate Generation (EMP)": {
-              "$ref": "#/definitions/Ultimate Generation (EMP)"
+            "Ultimate Generation EMP": {
+              "$ref": "#/definitions/Ultimate Generation EMP"
             },
-            "Ultimate Generation - Passive (EMP)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (EMP)"
+            "Ultimate Generation - Passive EMP": {
+              "$ref": "#/definitions/Ultimate Generation - Passive EMP"
             },
-            "Ultimate Generation - Combat (EMP)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (EMP)"
+            "Ultimate Generation - Combat EMP": {
+              "$ref": "#/definitions/Ultimate Generation - Combat EMP"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -6186,17 +6186,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Photon Barrier)": {
-              "$ref": "#/definitions/Ultimate Ability (Photon Barrier)"
+            "Ultimate Ability Photon Barrier": {
+              "$ref": "#/definitions/Ultimate Ability Photon Barrier"
             },
-            "Ultimate Generation (Photon Barrier)": {
-              "$ref": "#/definitions/Ultimate Generation (Photon Barrier)"
+            "Ultimate Generation Photon Barrier": {
+              "$ref": "#/definitions/Ultimate Generation Photon Barrier"
             },
-            "Ultimate Generation - Passive (Photon Barrier)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Photon Barrier)"
+            "Ultimate Generation - Passive Photon Barrier": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Photon Barrier"
             },
-            "Ultimate Generation - Combat (Photon Barrier)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Photon Barrier)"
+            "Ultimate Generation - Combat Photon Barrier": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Photon Barrier"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -6261,17 +6261,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Molten Core)": {
-              "$ref": "#/definitions/Ultimate Ability (Molten Core)"
+            "Ultimate Ability Molten Core": {
+              "$ref": "#/definitions/Ultimate Ability Molten Core"
             },
-            "Ultimate Generation (Molten Core)": {
-              "$ref": "#/definitions/Ultimate Generation (Molten Core)"
+            "Ultimate Generation Molten Core": {
+              "$ref": "#/definitions/Ultimate Generation Molten Core"
             },
-            "Ultimate Generation - Passive (Molten Core)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Molten Core)"
+            "Ultimate Generation - Passive Molten Core": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Molten Core"
             },
-            "Ultimate Generation - Combat (Molten Core)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Molten Core)"
+            "Ultimate Generation - Combat Molten Core": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Molten Core"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6351,17 +6351,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Pulse Bomb)": {
-              "$ref": "#/definitions/Ultimate Ability (Pulse Bomb)"
+            "Ultimate Ability Pulse Bomb": {
+              "$ref": "#/definitions/Ultimate Ability Pulse Bomb"
             },
-            "Ultimate Generation (Pulse Bomb)": {
-              "$ref": "#/definitions/Ultimate Generation (Pulse Bomb)"
+            "Ultimate Generation Pulse Bomb": {
+              "$ref": "#/definitions/Ultimate Generation Pulse Bomb"
             },
-            "Ultimate Generation - Passive (Pulse Bomb)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Pulse Bomb)"
+            "Ultimate Generation - Passive Pulse Bomb": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Pulse Bomb"
             },
-            "Ultimate Generation - Combat (Pulse Bomb)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Pulse Bomb)"
+            "Ultimate Generation - Combat Pulse Bomb": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Pulse Bomb"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -6426,17 +6426,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Tectonic Shock)": {
-              "$ref": "#/definitions/Ultimate Ability (Tectonic Shock)"
+            "Ultimate Ability Tectonic Shock": {
+              "$ref": "#/definitions/Ultimate Ability Tectonic Shock"
             },
-            "Ultimate Generation (Tectonic Shock)": {
-              "$ref": "#/definitions/Ultimate Generation (Tectonic Shock)"
+            "Ultimate Generation Tectonic Shock": {
+              "$ref": "#/definitions/Ultimate Generation Tectonic Shock"
             },
-            "Ultimate Generation - Passive (Tectonic Shock)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Tectonic Shock)"
+            "Ultimate Generation - Passive Tectonic Shock": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Tectonic Shock"
             },
-            "Ultimate Generation - Combat (Tectonic Shock)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Tectonic Shock)"
+            "Ultimate Generation - Combat Tectonic Shock": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Tectonic Shock"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6507,17 +6507,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Infra-sight)": {
-              "$ref": "#/definitions/Ultimate Ability (Infra-sight)"
+            "Ultimate Ability Infra-sight": {
+              "$ref": "#/definitions/Ultimate Ability Infra-sight"
             },
-            "Ultimate Generation (Infra-sight)": {
-              "$ref": "#/definitions/Ultimate Generation (Infra-sight)"
+            "Ultimate Generation Infra-sight": {
+              "$ref": "#/definitions/Ultimate Generation Infra-sight"
             },
-            "Ultimate Generation - Passive (Infra-sight)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Infra-sight)"
+            "Ultimate Generation - Passive Infra-sight": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Infra-sight"
             },
-            "Ultimate Generation - Combat (Infra-sight)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Infra-sight)"
+            "Ultimate Generation - Combat Infra-sight": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Infra-sight"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6594,17 +6594,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Primal Rage)": {
-              "$ref": "#/definitions/Ultimate Ability (Primal Rage)"
+            "Ultimate Ability Primal Rage": {
+              "$ref": "#/definitions/Ultimate Ability Primal Rage"
             },
-            "Ultimate Generation (Primal Rage)": {
-              "$ref": "#/definitions/Ultimate Generation (Primal Rage)"
+            "Ultimate Generation Primal Rage": {
+              "$ref": "#/definitions/Ultimate Generation Primal Rage"
             },
-            "Ultimate Generation - Passive (Primal Rage)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Primal Rage)"
+            "Ultimate Generation - Passive Primal Rage": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Primal Rage"
             },
-            "Ultimate Generation - Combat (Primal Rage)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Primal Rage)"
+            "Ultimate Generation - Combat Primal Rage": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Primal Rage"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6678,17 +6678,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Minefield)": {
-              "$ref": "#/definitions/Ultimate Ability (Minefield)"
+            "Ultimate Ability Minefield": {
+              "$ref": "#/definitions/Ultimate Ability Minefield"
             },
-            "Ultimate Generation (Minefield)": {
-              "$ref": "#/definitions/Ultimate Generation (Minefield)"
+            "Ultimate Generation Minefield": {
+              "$ref": "#/definitions/Ultimate Generation Minefield"
             },
-            "Ultimate Generation - Passive (Minefield)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Minefield)"
+            "Ultimate Generation - Passive Minefield": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Minefield"
             },
-            "Ultimate Generation - Combat (Minefield)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Minefield)"
+            "Ultimate Generation - Combat Minefield": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Minefield"
             },
             "Ultimate Duration": {
               "$ref": "#/definitions/Ultimate Duration"
@@ -6777,17 +6777,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Graviton Surge)": {
-              "$ref": "#/definitions/Ultimate Ability (Graviton Surge)"
+            "Ultimate Ability Graviton Surge": {
+              "$ref": "#/definitions/Ultimate Ability Graviton Surge"
             },
-            "Ultimate Generation (Graviton Surge)": {
-              "$ref": "#/definitions/Ultimate Generation (Graviton Surge)"
+            "Ultimate Generation Graviton Surge": {
+              "$ref": "#/definitions/Ultimate Generation Graviton Surge"
             },
-            "Ultimate Generation - Passive (Graviton Surge)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Graviton Surge)"
+            "Ultimate Generation - Passive Graviton Surge": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Graviton Surge"
             },
-            "Ultimate Generation - Combat (Graviton Surge)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Graviton Surge)"
+            "Ultimate Generation - Combat Graviton Surge": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Graviton Surge"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
@@ -6858,17 +6858,17 @@
             "No Ammunition Requirement": {
               "$ref": "#/definitions/No Ammunition Requirement"
             },
-            "Ultimate Ability (Transcendence)": {
-              "$ref": "#/definitions/Ultimate Ability (Transcendence)"
+            "Ultimate Ability Transcendence": {
+              "$ref": "#/definitions/Ultimate Ability Transcendence"
             },
-            "Ultimate Generation (Transcendence)": {
-              "$ref": "#/definitions/Ultimate Generation (Transcendence)"
+            "Ultimate Generation Transcendence": {
+              "$ref": "#/definitions/Ultimate Generation Transcendence"
             },
-            "Ultimate Generation - Passive (Transcendence)": {
-              "$ref": "#/definitions/Ultimate Generation - Passive (Transcendence)"
+            "Ultimate Generation - Passive Transcendence": {
+              "$ref": "#/definitions/Ultimate Generation - Passive Transcendence"
             },
-            "Ultimate Generation - Combat (Transcendence)": {
-              "$ref": "#/definitions/Ultimate Generation - Combat (Transcendence)"
+            "Ultimate Generation - Combat Transcendence": {
+              "$ref": "#/definitions/Ultimate Generation - Combat Transcendence"
             },
             "Projectile Speed": {
               "$ref": "#/definitions/Projectile Speed"
